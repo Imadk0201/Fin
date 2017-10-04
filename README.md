@@ -1,4 +1,4 @@
-# Fin Coding-Challenge
+# Fin
 
 What Is This?
 -------------
